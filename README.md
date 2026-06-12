@@ -11,7 +11,7 @@ Date: June 2026
 
 **A celestial portfolio theme with cosmic depth, glowing accents, and a dreamy observatory-window presentation.**
 
-[Open the live demo](https://apursley2012.github.io/aurora-cosmos/) · [Browse the full theme collection](https://github.com/apursley2012/github-pages-themes) · [Report an issue or request an addition](https://github.com/apursley2012/aurora-cosmos/issues/new/choose)
+[![Aurora Cosmos Screenshot Gallery](images/screenshots/aurora-cosmos-screenshot-2.png)](images/screenshots/aurora-cosmos-screenshot-2.png)
 
 </div>
 
@@ -100,11 +100,48 @@ The theme styling uses the following palette:
 
 Click any preview link or image to open the full-size file.
 
-- [Preview placeholder](images/screenshots/aurora-cosmos-preview-placeholder.svg)
+<p align="center">
+  <img src="./images/screenshots/aurora-cosmos-screenshot-2.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 1">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/aurora-cosmos-screenshot-3.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 2">
+</p>
+<p align="center">
+  <img src="./images/screenshots/aurora-cosmos-screenshot-4.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 3">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/aurora-cosmos-screenshot-4.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 4">
+</p>
+<p align="center">
+  <img src="./images/screenshots/aurora-cosmos-screenshot-6.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 5">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/aurora-cosmos-screenshot-7.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 6">
+</p>
+<p align="center">
+  <img src="./images/screenshots/aurora-cosmos-screenshot-8.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 7">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/aurora-cosmos-screenshot-9.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 8">
+</p>
+<p align="center">
+  <img src="./images/screenshots/aurora-cosmos-screenshot-10.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 9">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/aurora-cosmos-screenshot-11.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 10">
+</p>
+<p align="center">
+  <img src="./images/screenshots/aurora-cosmos-screenshot-12.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 11">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/aurora-cosmos-screenshot-13.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 12">
+</p>
+<p align="center">
+  <img src="./images/screenshots/aurora-cosmos-screenshot-14.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 13">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/aurora-cosmos-screenshot-15.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 14">
+</p>
+<p align="center">
+  <img src="./images/screenshots/aurora-cosmos-screenshot-16.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 15">
+</p>
 
 #### Screenshot Gallery
 
-[![Aurora Cosmos preview placeholder](images/screenshots/aurora-cosmos-preview-placeholder.svg)](images/screenshots/aurora-cosmos-preview-placeholder.svg)
+[![Aurora Cosmos preview placeholder](https://github.com/apursley2012/aurora-cosmos/tree/main/images/screenshots)](https://github.com/apursley2012/aurora-cosmos/tree/main/images/screenshots)
 
 ---
 
